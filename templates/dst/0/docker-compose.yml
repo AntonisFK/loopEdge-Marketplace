@@ -1,0 +1,9 @@
+dst:
+  hostname: DST
+  ports:
+  - 8989:8080
+  tty: true
+  image: quay.io/loopedge/loopedge-dst-docker:master
+  stdin_open: true
+  tty: true                     #using bash TTY mode (pseudo-TTY)
+  

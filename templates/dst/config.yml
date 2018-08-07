@@ -1,0 +1,4 @@
+name: DeviceHub Speed Tester
+description: This application is used to test performance of DeviceHub to Southbound devices communication.
+category: Test
+version: 1.0
