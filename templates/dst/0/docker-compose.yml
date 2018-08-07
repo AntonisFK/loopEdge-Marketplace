@@ -6,4 +6,3 @@ dst:
   image: quay.io/loopedge/loopedge-dst-docker:master
   stdin_open: true
   tty: true                     #using bash TTY mode (pseudo-TTY)
-  network_mode: host
