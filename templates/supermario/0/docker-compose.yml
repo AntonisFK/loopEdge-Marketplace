@@ -1,0 +1,4 @@
+dockermario:
+  image: pengbai/docker-supermario
+  ports:
+    - ${MARIO_PORT}:8080
