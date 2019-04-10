@@ -1,7 +1,0 @@
-scadalts:
-  image: dockergb/scadalts-dev
-  ports:
-    - ${SCADALTS_PORT}:8080
-  command:
-    - "/root/start.sh"
-  restart: ${RESTART}
