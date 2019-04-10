@@ -1,11 +1,11 @@
-.catalog: 
+.catalog:
   name: Super Mario
-  version: latest 
+  version: latest
   uuid: super-mario-0
-  questions
-  - variable: MARIO_PORT
-    description: 'Mario exposed port'    
-    label: 'Port:'
-    required: true
-    default: 8080
-    type: int
+  questions:
+    - variable: MARIO_PORT
+      description: 'Mario exposed port'
+      label: 'Port:'
+      required: true
+      default: 8080
+      type: int
