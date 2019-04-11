@@ -1,5 +1,0 @@
-name: PostgreSQL & Adminer
-description: |
-  PostgreSQL, often simply "Postgres", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance.
-version: 9.6.5
-category: Database

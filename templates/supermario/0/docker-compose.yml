@@ -1,7 +1,0 @@
-version: '2'
-
-services:
-  docker-supermario:
-    image: pengbai/docker-supermario
-    ports:
-      - ${MARIO_PORT}:8080
